@@ -1,2 +1,2 @@
-#!bin/bsh
-**realpath**
+#!/bin/bash
+alx system engineering devops repository
